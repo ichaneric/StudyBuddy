@@ -1,17 +1,19 @@
-# TechFolio Hub
-TechFolio Mobile App.
+# Study Budd
+Study Buddy Mobile App.
 
 # Features
-* Share Projects
-* Message other developers
-* Rate others work
-* Search other developers
+* Scheduler
+* • Create and adjust study plans based on your schedule and deadlines.
+* Quizzes and Notes
+* • Add notes and take quizzes on notes uploaded.
+* Chats, send Notes and Quizzes
+* • Send updates, send notes and quizzes to your friends.
+* Focus Mode
+* • Removes distraction from social media notifications and other mobile disturbance
+* Music for study session
+* • Music and tunes that are good for studying
 
-# Course Overview
-* Basic React Native Components
-* Database Design using Appwrite
-* User Registration & Authenticaiton
-* Deployment
+
 
 # Tech Stack
 * React Native
