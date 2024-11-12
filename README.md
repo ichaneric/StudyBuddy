@@ -1,4 +1,4 @@
-# Study Budd
+# Study Buddy
 Study Buddy Mobile App.
 
 # Features
