@@ -51,7 +51,7 @@ const SignIn = () => {
           {/* Sign In Button */}
           <Link href="/homepage" asChild>
           <TouchableOpacity className="bg-green-600 p-4 rounded-full w-4/5 items-center mt-5" style={{ width: 300 }}>
-            <Text className="text-white text-lg font-g_bold">Register</Text>
+            <Text className="text-white text-lg font-g_bold">Login</Text>
           </TouchableOpacity>
         </Link>
 
@@ -61,7 +61,7 @@ const SignIn = () => {
           </Link>
           <View className="flex justify-center pt-5 flex-row gap-2 ">
             <Text className="text-lg text-black font-g_regular">Don't have an account?</Text>
-            <Link href="/auth/signup" className="text-lg font-g_regular text-white">
+            <Link href="/auth/signup" className="text-lg font-g_regular text-white underline">
               Sign Up
             </Link>
           </View>
