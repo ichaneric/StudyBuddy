@@ -80,23 +80,7 @@ const Signup = () => {
           </TouchableOpacity>
         </Link>
 
-        <View className="flex-row items-center justify-center w-4/5 mb-5">
-          <View className="flex-1 h-px bg-black" />
-          <Text className="mx-2 font-g_thin">or sign up with</Text>
-          <View className="flex-1 h-px bg-black" />
-        </View>
-
-        <View className="w-4/5">
-          <TouchableOpacity className="flex-row bg-white p-4 rounded-lg items-center mb-4">
-            <Image source={require('../../assets/images/facebook.png')} className="w-6 h-6 mr-3" />
-            <Text className="text-black text-lg font-g_thin">Continue with Facebook</Text>
-          </TouchableOpacity>
-
-          <TouchableOpacity className="flex-row bg-white p-4 rounded-lg items-center">
-            <Image source={require('../../assets/images/google.png')} className="w-6 h-6 mr-3" />
-            <Text className="text-black text-lg font-g_thin">Continue with Google</Text>
-          </TouchableOpacity>
-        </View>
+        
       </ScrollView>
     </View>
   );

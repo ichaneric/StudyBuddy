@@ -31,3 +31,6 @@ Study Buddy Mobile App.
 
 # Tabs Screen
 <img src="assets/images/screenshot/tabs.jpg">  
+
+# Youtube Walkthrough
+* https://youtube.com/shorts/uuj2-nHiylY?si=XkNs2McId4WHAy4t
